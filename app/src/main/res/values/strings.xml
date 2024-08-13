@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">The Cupcake Factory</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_home">Home</string>
+    <string name="title_cupcakes">Cupcakes</string>
+    <string name="title_orders">Orders</string>
+</resources>
